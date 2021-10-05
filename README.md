@@ -1,7 +1,22 @@
-- 👋 Hi, I’m Benjamin Russell
-- 👀 I’m interested in Web, Programing, and Computer Sciences
-- 🌱 I’m currently learning Rust, Web Assembly, CSS Houdini
-- 📫 Contact me at Contact@BenjaminRussell.me
+# 👋 Hi, I’m Benjamin Russell
+### How is your day going? ✨
+[![portfolio](https://res.cloudinary.com/dzjvh0z3f/image/upload/v1633451102/github_readme_assets/portfolio_button_ywnrfq.svg)](https://www.portfolio.benjaminrussell.me/)
+*** 
+My interests are
+- Programing
+- Web
+- Rollerblading
+- Green tea
+- Rust & Web Assembly
+- CSS
+- Biking
+- Typescript
+- Swing dancing
+
+*among other things*
+
+
+
 
 <!---
 br-haa/br-haa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
