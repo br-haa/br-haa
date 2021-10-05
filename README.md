@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Benjamin Russell
 ### How is your day going? ✨
-| [![portfolio](https://res.cloudinary.com/dzjvh0z3f/image/upload/v1633451102/github_readme_assets/portfolio_button_ywnrfq.svg)](https://www.portfolio.benjaminrussell.me/) | [![personal git hub](https://res.cloudinary.com/dzjvh0z3f/image/upload/v1633451101/github_readme_assets/personal_button_guikfn.svg)](https://github.com/BenjaminRussell-me) |
+[<img src="https://res.cloudinary.com/dzjvh0z3f/image/upload/v1633451102/github_readme_assets/portfolio_button_ywnrfq.svg" alt="my portfolio" width="300" />](https://www.portfolio.benjaminrussell.me/)[<img src="https://res.cloudinary.com/dzjvh0z3f/image/upload/v1633451101/github_readme_assets/personal_button_guikfn.svg" alt="personal git" width="300"/>](https://github.com/BenjaminRussell-me)
+
 *** 
 My interests are
 - Programing
@@ -14,11 +15,3 @@ My interests are
 - Swing dancing
 
 *among other things*
-
-
-
-
-<!---
-br-haa/br-haa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
