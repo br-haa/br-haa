@@ -5,7 +5,7 @@
 *** 
 My interests are
 - Programing
-- Web
+- Web Dev
 - Rollerblading
 - Green tea
 - Rust & Web Assembly
